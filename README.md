@@ -100,27 +100,13 @@ if (botaoandar < andar()) {
 
 ---
 
-## 🧪 Instalação e Uso
 
-1. Clone este repositório:
 
-```bash
-git clone https://github.com/seu-usuario/elevador-arduino.git
-```
+## 📸 Imagens 
 
-2. Abra o arquivo `.ino` na IDE do Arduino.
-3. Conecte os componentes conforme o esquema.
-4. Faça o upload do código para a placa.
-5. Pressione qualquer botão para movimentar o elevador.
-
----
-
-## 📸 Imagens (adicione aqui)
-
-Adicione fotos do protótipo real ou esquemas eletrônicos para enriquecer o repositório:
 
 ```markdown
-![Protótipo do Elevador](link-para-imagem)
+[Protótipo do Elevador](link-para-imagem)
 ```
 
 ---
