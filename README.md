@@ -105,9 +105,9 @@ if (botaoandar < andar()) {
 ## 📸 Imagens 
 
 
-```markdown
+
 ![Protótipo do Elevador](https://github.com/user-attachments/assets/0a7b7355-7c5f-407f-becd-94048c9e0056)
-```
+
 
 ---
 
