@@ -106,7 +106,7 @@ if (botaoandar < andar()) {
 
 
 ```markdown
-[Protótipo do Elevador](https://github.com/Kaycoala/Projeto-Elevador/issues/1#issue-3194097474)
+![Protótipo do Elevador](https://github.com/Kaycoala/Projeto-Elevador/issues/1#issue-3194097474)
 ```
 
 ---
